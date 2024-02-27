@@ -1,0 +1,3 @@
+Module - opencv2
+
+Tip - Ranges of colour especially red, orange, white and black.
